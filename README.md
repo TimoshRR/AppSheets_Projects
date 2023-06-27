@@ -13,6 +13,6 @@ This is very useful for owners who run a cafeteria (in this case) as it will be 
 
 
 **3)	Attendance Marker:**
-This app helps mark the students' attendance and saves it in the google sheet with their email id.
+This app helps mark the students' attendance and saves it in the Google sheet with their email id.
 **Tech used:** Google AppSheets
 **Link:**  https://www.appsheet.com/start/b5432629-2262-425e-b59b-ee2a1af13fc2
